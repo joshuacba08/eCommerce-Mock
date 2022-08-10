@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #ebebeb;
+    font-family:Lato;
+}
+
+.input-query{
+    border: 1px solid transparent;
+    font-size:1.2rem;
+    padding:10px;
+    margin:20px auto;
+    outline:none;
+    border-radius: 3px;
+}
+
+.input-query:focus{
+    border: 1px solid #252e7c;
+}

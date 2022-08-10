@@ -1,0 +1,19 @@
+.item{
+    width:240px;
+    height:330px;
+}
+
+.item .item__img{
+    width:224px;
+    height:224px;
+}
+
+.item .item__img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.item .item__info{
+    background-color: #FFFFFF;
+}
